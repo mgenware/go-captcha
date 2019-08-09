@@ -7,7 +7,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/dchest/captcha"
+	"github.com/mgenware/go-captcha"
 	"io"
 	"log"
 	"net/http"
